@@ -1,6 +1,6 @@
 # 版权声明 / Copyright - Zikin的独立博客
 
-本站 **所有文章** 的 **著作权** 归 [作者](https://github.com/Zikinn) 所有。
+[本站](https://zikin.org/) **所有文章** 的 **著作权** 归 [作者](https://github.com/Zikinn) 所有。
 
 转载需事先征得作者同意。
 
